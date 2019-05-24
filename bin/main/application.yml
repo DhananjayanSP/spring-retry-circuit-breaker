@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: spring-retry-circuit-breaker
+server:
+  port: 8080
+  error:
+    include-stacktrace: never
+      
